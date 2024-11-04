@@ -11,3 +11,10 @@ I have designed an interactive Madhav Sales Ecommerce Dashboard using Power BI. 
 3. Show the sales performance in different regions.
 4. Understand demand patterns across different locations.
 
+*Tools
+   Microsoft Power BI
+*Data Source
+    Kaggle
+
+*Conclusion
+This project will provide valuable insights into the factors that determine Ecommerce sales data analysis techniques. The results of this analysis could be beneficial for customers and the sellers in enhancing product quantity and customer satisfaction.
